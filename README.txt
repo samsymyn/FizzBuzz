@@ -1,4 +1,4 @@
-<!-- 
+
 I used Node.js + express.js to build the backend for the FizzBuzz app.
 
 
@@ -29,8 +29,3 @@ To Test:
 
     * To run you will need to have the following added to scripts "test": "jest" within package.json
     * run 'npm test' to run the automated tests located in fizzbuzz.test.js 
-
-
- -->
-
-
